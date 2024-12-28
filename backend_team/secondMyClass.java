@@ -1,7 +1,6 @@
 class a{
-
-main()
-{
-}
+	void add{
+system.out.println( "this is second class		");
+	}
 
 }
