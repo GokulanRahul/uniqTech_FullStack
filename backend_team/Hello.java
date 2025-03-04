@@ -9,8 +9,8 @@ public class Hello {
     List<Integer> list = Arrays.asList(10, 20, 5, 70, 23, 46);
     List<Integer> collect = list.stream().sorted((x, y) -> y - x).skip(1).limit(1).collect(Collectors.toList());
     System.out.println(collect);
-    System.out.println("Hello World");
-    System.out.println("Hello World");
+    System.out.println("gokul");
+    System.out.println("akash");
     System.out.println("hello Team");
 
   }
